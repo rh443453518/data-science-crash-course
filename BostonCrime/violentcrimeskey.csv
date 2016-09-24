@@ -1,72 +1,69 @@
-07rv,651,
-32gun,912,
-aggravated assault,6021,
-aircraft,25,
-argue,2913,
-arrest,2154,
-arson,35,
-auto theft,4899,
-ballist,878,
-benoprop,1433,
-biothreat,4,
-bomb,174,
-burgtools,60,
-commercial burglary,1615,
-crimes against children,608,
-death investigation,1003,
-disorderly,1963,
-drug charges,12792,
-embezellment,230,
-explos,47,
-fire,1977,
-forgery,1274,
-fraud,9185,
-gambling offense,14,
-gather,1027,
-harass,429,
-harbor,262,
-hatecrim,39,
-hazardous,711,
-homicide,148,
-invper,13911,
-invprop,7107,
-invveh,55,
-labor,11,
-landlord,1036,
-larceny from motor vehicle,13567,
-licviol,1411,
-manslaug,8,
-medassist,17782,
-mvacc,14651,
-operating under influence,755,
-other,2225,
-other larceny,25341,
-persloc,4963,
-persmiss,1284,
-phonecalls,1594,
-plates,438,
-prison,188,
-propdam,747,
-propfound,4558,
-proplost,8979,
-prostitution charges,371,
-pubdrink,1256,
-residential burglary,7173,
-restrain,775,
-robbery,5226,
-runaway,34,
-searchwarr,813,
-service,5560,
-sexreg,812,
-simple assault,18485,
-skipfare,469,
-stolen property charges,846,
-towed,8045,
-trespass,1238,
-val,28497,
-vandalism,14150,
-violation of liquor laws,564,
-weapons charge,1218,
-ndalism,14150,1
-violation of liquor laws,564,0
+07rv,651,0
+32gun,912,1
+aggravated assault,6021,1
+aircraft,25,0
+argue,2913,0
+arrest,2154,0
+arson,35,1
+auto theft,4899,1
+ballist,878,1
+benoprop,1433,0
+biothreat,4,1
+bomb,174,1
+burgtools,60,0
+commercial burglary,1615,1
+crimes against children,608,1
+death investigation,1003,1
+disorderly,1963,1
+drug charges,12792,1
+embezellment,230,1
+explos,47,1
+fire,1977,1
+forgery,1274,1
+fraud,9185,1
+gambling offense,14,1
+gather,1027,0
+harass,429,1
+harbor,262,1
+hatecrim,39,1
+hazardous,711,1
+homicide,148,1
+invper,13911,0
+invprop,7107,0
+invveh,55,0
+labor,11,0
+landlord,1036,0
+larceny from motor vehicle,13567,1
+licviol,1411,1
+manslaug,8,1
+medassist,17782,0
+mvacc,14651,0
+operating under influence,755,1
+other,2225,0
+other larceny,25341,1
+persloc,4963,0
+persmiss,1284,1
+phonecalls,1594,0
+plates,438,0
+prison,188,1
+propdam,747,1
+propfound,4558,0
+proplost,8979,0
+prostitution charges,371,1
+pubdrink,1256,1
+residential burglary,7173,1
+restrain,775,1
+robbery,5226,1
+runaway,34,1
+searchwarr,813,1
+service,5560,0
+sexreg,812,1
+simple assault,18485,1
+skipfare,469,1
+stolen property charges,846,1
+towed,8045,0
+trespass,1238,1
+val,28497,0
+vandalism,14150,1
+violation of liquor laws,564,1
 weapons charge,1218,1
